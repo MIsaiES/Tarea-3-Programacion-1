@@ -1,5 +1,5 @@
 ﻿int n1, n2, n3;
-Console.WriteLine("##### Mayor de tres Numeros #####");
+Console.WriteLine("###### Mayor de tres Numeros ######");
 
 try
 {
